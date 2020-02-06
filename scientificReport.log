@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.2.6)  6 FEB 2020 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.2.6)  6 FEB 2020 19:16
 entering extended mode
-**"./scientific report.tex"
-("scientific report.tex"
+**./scientificReport.tex
+(scientificReport.tex
 LaTeX2e <2019-10-01> patch level 3
 (/home/kaeyz/.miktex/texmfs/install/tex/latex/extsizes/extreport.cls
 Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -528,8 +528,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 ))
-("scientific report.aux")
-\openout1 = `"scientific report.aux"'.
+(scientificReport.aux)
+\openout1 = `scientificReport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -597,9 +597,9 @@ LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
 LaTeX Info: Redefining \nameref on input line 70.
 
-("scientific report.out") ("scientific report.out")
+(scientificReport.out) (scientificReport.out)
 \@outlinefile=\write3
-\openout3 = `"scientific report.out"'.
+\openout3 = `scientificReport.out'.
 
 LaTeX Info: Redefining \microtypecontext on input line 70.
 Package microtype Info: Generating PDF output.
@@ -774,26 +774,26 @@ AED: lastpage setting LastPage
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
- ("scientific report.aux")
+ (scientificReport.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
-Package rerunfilecheck Info: File `"scientific report".out' has not changed.
+Package rerunfilecheck Info: File `scientificReport.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
  ) 
 Here is how much of TeX's memory you used:
  11707 strings out of 494412
- 178741 string characters out of 3174503
- 309747 words of memory out of 3000000
+ 178717 string characters out of 3174503
+ 309738 words of memory out of 3000000
  15515 multiletter control sequences out of 15000+200000
  11628 words of font info for 58 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 53i,11n,45p,685b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,11n,45p,682b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/kaeyz/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0800
 .pk></home/kaeyz/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></home/kaeyz/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ></home/kaeyz/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "scientific report.pdf" (8 pages, 71901 bytes).
+Output written on scientificReport.pdf (8 pages, 71901 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
