@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.2.6)  20 FEB 2020 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.2.6)  20 FEB 2020 22:24
 entering extended mode
 **./scientificReport.tex
 (scientificReport.tex
@@ -639,19 +639,19 @@ Package lastpage Info: Please have a look at the pageslts package at
  [1
 
 {/home/kaeyz/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2] [3]
-(/home/kaeyz/.miktex/texmfs/install/tex/latex/ucs/uni-32.def
+[4] (/home/kaeyz/.miktex/texmfs/install/tex/latex/ucs/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [4] [5] [6]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 216
+) [5] [6]
+[7]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 249
 .
-
-(/home/kaeyz/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+ (/home/kaeyz/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/home/kaeyz/.miktex/texmfs/install/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 216
+LaTeX Font Info:    Trying to load font information for U+msb on input line 249
 .
 
 (/home/kaeyz/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
@@ -660,133 +660,133 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/home/kaeyz/.miktex/texmfs/install/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 []|\OT1/cmr/m/n/12 (+20) Not suitable for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 \OT1/cmr/m/n/12 (+20) high performance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 []|\OT1/cmr/m/n/12 (+20) It is suitable for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 \OT1/cmr/m/n/12 (+20) high performance
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 220--221
+Underfull \hbox (badness 1810) in paragraph at lines 253--254
 []|\OT1/cmr/m/n/12 (+20) It suitable for high
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 \OT1/cmr/m/n/12 (+20) performance and
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 224--224
+Underfull \hbox (badness 1383) in paragraph at lines 257--257
 []|\OT1/cmr/m/n/12 (+20) Not suitable for UI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
 []|\OT1/cmr/m/n/12 (+20) Game
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
 []|\OT1/cmr/m/n/12 (+20) Native
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 229--229
+Underfull \hbox (badness 6842) in paragraph at lines 262--262
 []|\OT1/cmr/m/n/12 (+20) It uses Native UI
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 229--229
+Underfull \hbox (badness 7613) in paragraph at lines 262--262
 \OT1/cmr/m/n/12 (+20) markup CSS AND
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 []|\OT1/cmr/m/n/12 (+20) It uses React UI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 \OT1/cmr/m/n/12 (+20) markup, native
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|\OT1/cmr/m/n/12 (+20) Popularity By
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\OT1/cmr/m/n/12 (+20) Angular JS and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 \OT1/cmr/m/n/12 (+20) Apache Cordova
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 233--233
+Underfull \hbox (badness 7030) in paragraph at lines 266--266
 \OT1/cmr/m/n/12 (+20) and maintained by
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 233--233
+Underfull \hbox (badness 7030) in paragraph at lines 266--266
 \OT1/cmr/m/n/12 (+20) and maintained by
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 233--233
+Underfull \hbox (badness 5331) in paragraph at lines 266--266
 \OT1/cmr/m/n/12 (+20) Telerik and Google
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 []|\OT1/cmr/m/n/12 (+20) ReactJS and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 \OT1/cmr/m/n/12 (+20) maintained by
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 235--235
+Underfull \hbox (badness 6157) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/12 (+20) Cross platform
  []
 
-[7] [8] 
+[8] [9] 
 AED: lastpage setting LastPage
-[9
+[10
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
  (scientificReport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 345.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 345.
 Package rerunfilecheck Info: File `scientificReport.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
  ) 
 Here is how much of TeX's memory you used:
- 11721 strings out of 494412
- 178818 string characters out of 3174503
- 309739 words of memory out of 3000000
+ 11723 strings out of 494412
+ 178836 string characters out of 3174503
+ 309743 words of memory out of 3000000
  15514 multiletter control sequences out of 15000+200000
  12052 words of font info for 64 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -795,9 +795,9 @@ Here is how much of TeX's memory you used:
 ></home/kaeyz/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /home/kaeyz/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></h
 ome/kaeyz/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on scientificReport.pdf (9 pages, 87813 bytes).
+Output written on scientificReport.pdf (10 pages, 88923 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
  10241 words of extra memory for PDF output out of 12000 (max. 10000000)
 
